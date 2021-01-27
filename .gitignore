@@ -16,6 +16,10 @@ _mailinglist
 .idea/
 docs/_build/
 __pycache__
+examples
+trust.json
+iam-role-policy.json
+FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS-master.zip
 .env_file
 
 # Coverage reports
