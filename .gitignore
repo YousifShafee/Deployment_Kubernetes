@@ -22,6 +22,7 @@ FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS-master.zip
 aws-auth-patch.yml
 .env_file
 .env
+env*
 
 # Coverage reports
 htmlcov/
