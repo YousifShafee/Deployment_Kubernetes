@@ -20,6 +20,7 @@ examples
 trust.json
 iam-role-policy.json
 FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS-master.zip
+aws-auth-patch.yml
 .env_file
 
 # Coverage reports
